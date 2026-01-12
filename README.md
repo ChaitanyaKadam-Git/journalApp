@@ -32,6 +32,8 @@ This project demonstrates backend development skills including REST API design, 
 - Clean layered architecture (Controller → Service → Repository)
 
 ---
+## Project Structure
+
 src
 ├── controller
 ├── service
@@ -84,5 +86,5 @@ This project was developed to strengthen backend development skills and demonstr
 M.Sc. Computer Science (2024)  
 Backend Developer – Java & Spring Boot
 
-## Project Structure
+
 
