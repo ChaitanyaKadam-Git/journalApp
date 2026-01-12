@@ -1,0 +1,2 @@
+2026-01-11 15:02:00.512 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-01-11 15:02:00.528 INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
